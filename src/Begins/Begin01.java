@@ -1,7 +1,12 @@
 package Begins;
+import java.util.Scanner;
 
+//Begin1
 public class Begin01 {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner scan = new Scanner(System.in);
+        System.out.println("a ni kiriting:");
+        float a = scan.nextFloat();
+        System.out.println("perimeter of square is:" + 4*a);
     }
 }
