@@ -21,4 +21,3 @@ public class Begin04 {
 
     }
 }
-
