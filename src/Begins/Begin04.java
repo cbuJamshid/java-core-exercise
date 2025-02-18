@@ -1,7 +1,8 @@
-package Begin;
+package Begins;
 
-public class Begin02 {
+public class Begin04 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
+

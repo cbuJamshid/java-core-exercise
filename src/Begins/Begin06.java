@@ -1,6 +1,6 @@
-package Begin;
+package Begins;
 
-public class Begin04 {
+public class Begin06 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
